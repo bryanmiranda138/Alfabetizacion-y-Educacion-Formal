@@ -52,8 +52,7 @@ El proyecto está optimizado para ser alojado en plataformas de sitios estático
 ├── resources/               # Librerías estáticas (OpenLayers, CSS, utilidades de búsqueda)
 ├── webfonts/                # Tipografías e iconos de interfaz
 └── images/                  # Marcadores y recursos gráficos del mapa base
-
-
-✒️ Autor
+```
+##✒️ Autor
 Bryan Andres Candelario Miranda
 Desarrollador y Diseñador del Proyecto
